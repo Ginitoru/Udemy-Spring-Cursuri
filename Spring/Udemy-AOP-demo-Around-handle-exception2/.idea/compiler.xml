@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Udemy-AOP-demo-combo-pointcut-order-aspects" />
+        <module name="Udemy-AOP-demo-Around-with-Loger" />
+        <module name="Udemy-AOP-demo-2" />
+        <module name="Udemy-AOP-demo-Around-handle-exception2" />
+        <module name="Udemy-AOP-demo" />
+        <module name="Udemy-AOP-demo-combo" />
+        <module name="Udemy-AOP-demo-read-joinpoint" />
+        <module name="Udemy-AOP-demo-after-returnig" />
+        <module name="Udemy-AOP-demo-after-throwing" />
+        <module name="Udemy-AOP-demo-Around" />
+        <module name="Udemy-AOP-demo-after-finally" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

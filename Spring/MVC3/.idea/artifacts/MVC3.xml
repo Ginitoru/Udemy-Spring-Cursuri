@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MVC3">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC3</output-path>
+    <root id="root">
+      <element id="archive" name="MVC3.jar">
+        <element id="module-output" name="MVC3" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

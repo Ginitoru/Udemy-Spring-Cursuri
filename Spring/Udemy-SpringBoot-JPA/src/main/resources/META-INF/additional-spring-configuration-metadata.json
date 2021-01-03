@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "sping.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for sping.datasource.url."
+    },
+    {
+      "name": "sping.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for sping.datasource.url."
+    }
+  ] }
